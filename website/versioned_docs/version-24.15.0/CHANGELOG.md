@@ -2,6 +2,22 @@
 
 Combined changelog for puppeteer and puppeteer-core.
 
+## [24.15.0](https://github.com/puppeteer/puppeteer/compare/puppeteer-v24.14.0...puppeteer-v24.15.0) (2025-07-21)
+
+### Miscellaneous Chores
+
+- **puppeteer:** Synchronize puppeteer versions
+
+### Dependencies
+
+- The following workspace dependencies were updated
+  - dependencies
+    - puppeteer-core bumped from 24.14.0 to 24.15.0
+
+### Features
+
+- emulateTimezone via BiDi ([#14042](https://github.com/puppeteer/puppeteer/issues/14042)) ([e8768c9](https://github.com/puppeteer/puppeteer/commit/e8768c9b2b21c077ba0cf503c69e27f72868c20a))
+
 ## [24.14.0](https://github.com/puppeteer/puppeteer/compare/puppeteer-v24.13.0...puppeteer-v24.14.0) (2025-07-16)
 
 ### Miscellaneous Chores
